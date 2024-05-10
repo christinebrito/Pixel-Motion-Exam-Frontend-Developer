@@ -113,7 +113,7 @@ div#myTopnav {
 
 /* banner section */
 .banner{
-    background: url(/assets/Group\ 2.png);
+    background: url(https://raw.githubusercontent.com/christinebrito/Pixel-Motion-Exam-Frontend-Developer/main/assets/Group%202.png);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: -webkit-center;
@@ -361,7 +361,7 @@ div#myTopnav {
         align-items: center;
     }
     .banner {
-        background: url(/assets/banner.png);
+        background: url(https://raw.githubusercontent.com/christinebrito/Pixel-Motion-Exam-Frontend-Developer/main/assets/banner.png);
         background-size: cover;
         background-repeat: no-repeat;
         height: 500px;
