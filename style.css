@@ -204,6 +204,7 @@ div#myTopnav {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    gap: 20px;
 }
 
 .column-box-container1 {
@@ -228,7 +229,7 @@ div#myTopnav {
 .column-box-container2 img {
     /* width: 328px; */
     padding: 40px 0;
-    width: 100%;
+    width: 90%;
 }
 .column-box-container2 h2 {
     font-size: 24px;
